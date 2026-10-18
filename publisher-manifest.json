@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "dac27e3569a092a466b4fc68",
+  "owner": "pvrfktq",
+  "repo": "page-7293a9a202155b189a64689a",
+  "title": "wifi321",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7293a9a202155b189a64689a",
+      "a": "wifi321",
+      "b": "",
+      "entity": "wifi321",
+      "brand": "wifi321",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d102a42f7b609cebc29fc13523030f237aa107d3e20d64e3527777b56bca5608",
+      "content": {
+        "keyword1": "wifi321",
+        "keyword2": "",
+        "primary_entity": "wifi321",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "wifi321 提供稳定高效的网络代理服务。月付套餐覆盖个人到团队需求。极速流量，多设备支持，专线优化。",
+          "AI_DESCRIPTION": "wifi321 提供稳定高效的网络代理服务。月付套餐覆盖个人到团队需求。极速流量，多设备支持，专线优化。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {margin: 0;padding: 0;box-sizing: border-box}\n:root {--bg: #001233;--bg-alt: #001847;--surface: #00235a;--amber: #ffb703;--amber-soft: rgba(255, 183, 3, 0.15);--text: #e8eef7;--text-muted: #8a9bb8;--radius: 20px;--radius-sm: 12px}\nhtml {}\nbody {background: var(--bg);color: var(--text);font-family: -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif;line-height: 1.7;font-size: 16px}\na {color: var(--amber);text-decoration: none}\n\n/* Hero */\n.hero {display: grid;grid-template-columns: 1fr 380px;gap: 60px;max-width: 1200px;margin: 0 auto;padding: 80px 40px 60px;align-items: start}\n.hero-nav {grid-column: 1 / -1;display: flex;gap: 28px;margin-bottom: 48px;border-bottom: 1px solid rgba(255,255,255,0.08);padding-bottom: 20px;flex-wrap: wrap}\n.hero-nav a {color: var(--text-muted);font-size: 14px;letter-spacing: 0.05em;transition: color 0.2s}\n.hero-nav a:hover {color: var(--amber)}\n.hero-text h1 {font-size: 56px;font-weight: 800;letter-spacing: -0.02em;line-height: 1.1;margin-bottom: 24px}\n.hero-text h1 span {color: var(--amber)}\n.hero-text p {font-size: 18px;color: var(--text-muted);margin-bottom: 20px;max-width: 520px}\n.hero-info {background: var(--surface);border-radius: var(--radius);padding: 32px;box-shadow: 0 20px 60px rgba(0,0,0,0.3)}\n.hero-info h3 {font-size: 14px;text-transform: uppercase;letter-spacing: 0.1em;color: var(--amber);margin-bottom: 20px}\n.hero-info-item {display: flex;justify-content: space-between;padding: 14px 0;border-bottom: 1px solid rgba(255,255,255,0.06);font-size: 15px}\n.hero-info-item:last-child {border-bottom: none}\n.hero-info-item span:last-child {color: var(--text);font-weight: 600}\n\n/* Sections */\nsection {padding: 80px 40px;max-width: 1200px;margin: 0 auto}\nh2 {font-size: 36px;font-weight: 700;margin-bottom: 40px;letter-spacing: -0.01em}\nh2 span {color: var(--amber)}\n\n/* Features */\n.features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 24px}\n.feature-card {background: var(--surface);border-radius: var(--radius);padding: 32px;box-shadow: 0 10px 40px rgba(0,0,0,0.2)}\n.feature-card h3 {color: var(--amber);font-size: 18px;margin-bottom: 12px}\n.feature-card p {color: var(--text-muted);font-size: 15px}\n\n/* Plans */\n.plans-container {display: flex;flex-direction: column;gap: 24px}\n.plan-card {background: var(--surface);border-radius: var(--radius);padding: 36px;box-shadow: 0 10px 40px rgba(0,0,0,0.2);display: grid;grid-template-columns: 200px 1fr auto;gap: 32px;align-items: center;position: relative}\n.plan-card:nth-child(1) {margin-left: 0}\n.plan-card:nth-child(2) {margin-left: 40px;border: 1px solid var(--amber);background: linear-gradient(135deg, var(--surface), var(--bg-alt))}\n.plan-card:nth-child(3) {margin-left: 80px}\n.plan-badge {position: absolute;top: -12px;right: 32px;background: var(--amber);color: var(--bg);padding: 4px 14px;border-radius: 20px;font-size: 12px;font-weight: 700}\n.plan-name {font-size: 22px;font-weight: 700}\n.plan-price {font-size: 32px;font-weight: 800;color: var(--amber)}\n.plan-price small {font-size: 14px;color: var(--text-muted);font-weight: 400;display: block;margin-top: 4px}\n.plan-features {list-style: none;display: grid;gap: 8px}\n.plan-features li {font-size: 14px;color: var(--text-muted);padding-left: 20px;position: relative}\n.plan-features li::before {content: \"—\";position: absolute;left: 0;color: var(--amber)}\n\n/* FAQ */\n.faq-group {margin-bottom: 48px}\n.faq-group h3 {color: var(--amber);font-size: 20px;margin-bottom: 24px;padding-bottom: 12px;border-bottom: 1px solid rgba(255,255,255,0.1)}\n.faq-item {background: var(--surface);border-radius: var(--radius-sm);padding: 24px;margin-bottom: 16px;box-shadow: 0 6px 20px rgba(0,0,0,0.15)}\n.faq-item h4 {font-size: 16px;margin-bottom: 10px}\n.faq-item p {font-size: 14px;color: var(--text-muted)}\n\n/* Usage */\n.usage-steps {display: grid;gap: 20px}\n.usage-step {background: var(--surface);border-radius: var(--radius-sm);padding: 24px 28px;display: flex;gap: 20px;align-items: start;box-shadow: 0 6px 20px rgba(0,0,0,0.15)}\n.usage-step .num {background: var(--amber);color: var(--bg);width: 32px;height: 32px;border-radius: 50%;display: flex;align-items: center;justify-content: center;font-weight: 700;flex-shrink: 0}\n.usage-step h4 {font-size: 16px;margin-bottom: 6px}\n.usage-step p {font-size: 14px;color: var(--text-muted)}\n\nfooter {border-top: 1px solid rgba(255,255,255,0.08);padding: 40px;text-align: center;color: var(--text-muted);font-size: 13px}\n\n@media (max-width: 768px) {\n  .hero {grid-template-columns: 1fr;padding: 40px 20px}\n  .hero-text h1 {font-size: 36px}\n  section {padding: 40px 20px}\n  h2 {font-size: 26px}\n  .plan-card {grid-template-columns: 1fr;margin-left: 0 !important}\n}\n</style><main>\n  <section class=\"hero\">\n    <nav class=\"hero-nav\">\n      <a href=\"#features\">服务特性</a>\n      <a href=\"#plans\">套餐方案</a>\n      <a href=\"#usage\">使用指南</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n    <div class=\"hero-text\">\n      <h1>wifi321<br><span>网络连接</span>重新定义</h1>\n      <p>简洁高效。专为追求稳定与速度的用户打造。从个人日常到团队协作，一套方案覆盖全部场景。</p>\n      <p>无需复杂配置。选择套餐，获取节点，即刻连接。</p>\n    </div>\n    <aside class=\"hero-info\">\n      <h3>服务概览</h3>\n      <div class=\"hero-info-item\"><span>起步价格</span><span>¥15/月</span></div>\n      <div class=\"hero-info-item\"><span>设备上限</span><span>3 ~ 20 台</span></div>\n      <div class=\"hero-info-item\"><span>流量额度</span><span>100GB 起</span></div>\n      <div class=\"hero-info-item\"><span>线路类型</span><span>普通 / IPLC专线</span></div>\n      <div class=\"hero-info-item\"><span>售后支持</span><span>工单 / 专属经理</span></div>\n    </aside>\n  </section>\n\n  <section id=\"features\">\n    <h2>服务<span>特性</span></h2>\n    <div class=\"features-grid\">\n      <article class=\"feature-card\">\n        <h3>多设备并行</h3>\n        <p>单账号支持 3 至 20 台设备同时在线。手机、平板、电脑无缝切换，无需反复登录。</p>\n      </article>\n      <article class=\"feature-card\">\n        <h3>流媒体解锁</h3>\n        <p>原生节点支持主流流媒体平台。旗舰及以上套餐覆盖全节点解锁，观影无区域限制。</p>\n      </article>\n      <article class=\"feature-card\">\n        <h3>专线优化</h3>\n        <p>IPLC 专线接入，降低延迟与抖动。游戏加速与实时通信体验显著提升。</p>\n      </article>\n      <article class=\"feature-card\">\n        <h3>弹性流量</h3>\n        <p>100GB 到 1000GB 多档可选。按需选择，不浪费每一兆。年付享额外优惠。</p>\n      </article>\n      <article class=\"feature-card\">\n        <h3>稳定节点池</h3>\n        <p>多地域节点部署，自动负载均衡。高峰时段依然保持可用性与速度。</p>\n      </article>\n      <article class=\"feature-card\">\n        <h3>响应支持</h3>\n        <p>7x24 工单响应。团队版客户配备专属客户经理，问题直达处理。</p>\n      </article>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>套餐<span>方案</span></h2>\n    <p>阶梯式升级，按规模与需求选择。年付更划算。</p>\n    <div class=\"plans-container\">\n      <article class=\"plan-card\">\n        <div>\n          <div class=\"plan-name\">基础版</div>\n          <div class=\"plan-price\">¥15<small>/月 · 年付 ¥150</small></div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量</li>\n          <li>3 台设备同时在线</li>\n          <li>基础流媒体解锁</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </article>\n      <article class=\"plan-card\">\n        <div class=\"plan-badge\">推荐</div>\n        <div>\n          <div class=\"plan-name\">旗舰版</div>\n          <div class=\"plan-price\">¥35<small>/月 · 年付 ¥350</small></div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量</li>\n          <li>5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </article>\n      <article class=\"plan-card\">\n        <div>\n          <div class=\"plan-name\">团队版</div>\n          <div class=\"plan-price\">¥85<small>/月 · 年付 ¥850</small></div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>企业定制路由支持</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </article>\n    </div>\n  </section>\n\n  <section id=\"usage\">\n    <h2>使用<span>指南</span></h2>\n    <div class=\"usage-steps\">\n      <div class=\"usage-step\">\n        <div class=\"num\">1</div>\n        <div>\n          <h4>选择套餐并订阅</h4>\n          <p>根据设备数量与流量需求选择对应方案。完成订阅后账号即时激活。</p>\n        </div>\n      </div>\n      <div class=\"usage-step\">\n        <div class=\"num\">2</div>\n        <div>\n          <h4>获取节点信息</h4>\n          <p>登录用户中心查看订阅链接。复制链接或导入客户端，节点列表自动同步。</p>\n        </div>\n      </div>\n      <div class=\"usage-step\">\n        <div class=\"num\">3</div>\n        <div>\n          <h4>配置客户端</h4>\n          <p>下载对应平台的代理客户端。粘贴订阅链接，更新节点列表。选择延迟最低的节点连接。</p>\n        </div>\n      </div>\n      <div class=\"usage-step\">\n        <div class=\"num\">4</div>\n        <div>\n          <h4>开始使用</h4>\n          <p>连接成功后即可访问全网资源。如遇问题可提交工单，技术团队跟进处理。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见<span>问题</span></h2>\n\n    <div class=\"faq-group\">\n      <h3>套餐与计费</h3>\n      <article class=\"faq-item\">\n        <h4>月付和年付有什么区别？</h4>\n        <p>月付按月扣费，灵活开通。年付一次性支付全年费用，价格相当于减免两个月。例如基础版月付 ¥15，年付 ¥150。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h4>流量用完了怎么办？</h4>\n        <p>流量耗尽后连接暂停，次月自动恢复。如需中途补充，可联系客服购买加油包。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h4>可以随时更换套餐吗？</h4>\n        <p>可以。升级套餐立即生效，补差价即可。降级套餐在当前周期结束后生效。</p>\n      </article>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>设备与兼容性</h3>\n      <article class=\"faq-item\">\n        <h4>一个账号能在几台设备上使用？</h4>\n        <p>基础版支持 3 台，旗舰版 5 台，团队版 20 台。超出限制的设备会连接失败，需先断开其他设备。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h4>支持哪些平台？</h4>\n        <p>支持 Windows、macOS、Linux、iOS、Android 等主流平台。需使用兼容的第三方客户端导入订阅。</p>\n      </article>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>连接与故障</h3>\n      <article class=\"faq-item\">\n        <h4>连接速度慢怎么排查？</h4>\n        <p>先尝试切换其他节点。检查本地网络是否正常。关闭其他占用带宽的程序。如仍无改善可提交工单。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h4>流媒体无法解锁？</h4>\n        <p>基础版仅解锁部分流媒体。如需全平台解锁请升级至旗舰版或团队版。确保连接的是原生解锁节点。</p>\n      </article>\n      <article class=\"faq-item\">\n        <h4>工单响应需要多久？</h4>\n        <p>旗舰版及以上享受优先工单，通常 2 小时内回复。团队版由专属客户经理直接对接。</p>\n      </article>\n    </div>\n  </section>\n\n  <footer>\n    <p>wifi321 — 专注优质网络代理服务</p>\n    <p>本页面仅作信息展示，不构成任何承诺。</p>\n  </footer>\n</main>",
+          "hash": "6dbb4ec08a82b6ecdf2a1cf0cbffe2923137c31b90a2cd595a6cf03d8e249ccf",
+          "seo": {
+            "title": "wifi321 — 专注优质网络代理服务",
+            "keywords": "wifi321, 网络代理, 流量套餐, IPLC专线, 流媒体解锁",
+            "description": "wifi321 提供稳定高效的网络代理服务。月付套餐覆盖个人到团队需求。极速流量，多设备支持，专线优化。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "6272",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "drdhq.cn",
+    "host": "p-52e4a83198.drdhq.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9dd30ee42c7b539aa9e2530d01bb38ebfbac7e8c7426227c5f1606907b9a7cf3",
+    "sitemap.xml": "184558606bbf4118304c4a784057b336a100c063f213bb49635534224006ed1f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d8e1e9f294ddbc0996766f52fc82bb2e4c22c9575ab0d1922373ea5ad1b91406",
+    "robots.txt": "ae6250f291d5bac41582251a0558269ef4a48b81e39c02123aa1fce2ff7a9cce",
+    "e48c40ce71792ccabc08bae7a4a2c511.txt": "3c06aacc7be9fa67be38056eeb43851c82cdd2bd3a629f1a9200bbd640f821c1"
+  },
+  "revision": "af1c37f2df4e6492fc1828c1b2c2bdd0b75e0278a2fb3c27d573a004a028c3b3"
+}
